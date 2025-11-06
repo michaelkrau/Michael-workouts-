@@ -33,14 +33,14 @@
 
 ### EMOM (Every Minute On the Minute) - 30 דקות
 
-**דקות 1-5:**
-- Minute 1: Squats - 20 חזרות
-- Minute 2: Push-ups with band - 15 חזרות
-- Minute 3: Rows - 20 חזרות
-- Minute 4: Lateral raises - 15 חזרות
-- Minute 5: מנוחה
+**תרגילים 1-4:**
+- exercise 1: Squats 
+- exercise 2: Push-ups with band 
+- exercise 3: Rows 
+- exersice 4: Lateral raises
+ בין תרגיל לתרגיל : 15 שניות מנוחה
 
-**חזור על המחזור 6 פעמים**
+**3 סבבים סך הכל**
 
 ---
 
@@ -56,10 +56,7 @@
 - Mountain climbers with band
 
 **Round 3 - 8 סבבים:**
-- Band jacks (קפיצות עם פתיחת רגליים מול גומייה)
+- Band jacks  (קפיצות עם פתיחת רגליים עם גומייה מעל הברכיים)
 
 **מנוחה: 2 דקות בין Rounds**
 
----
-
-**טיפ:** גומיות מתאימות מצוין לאימונים בבית או בחוץ!
